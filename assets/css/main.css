@@ -548,11 +548,14 @@ body {
   .hamburger {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     gap: 5px;
     cursor: pointer;
     padding: 4px;
     background: none;
     border: none;
+    align-self: flex-start;
+    margin-top: 2px;
   }
 
   .hamburger span {
