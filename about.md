@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="page-content">
 
-<p>I'm a writer and I write because I want to. It makes me feel good.</p>
+<p>I write because I want to. It makes me feel good.</p>
 
 <h2>Contact</h2>
 
