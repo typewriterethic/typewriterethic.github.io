@@ -541,8 +541,58 @@ body {
     margin-bottom: 2.5rem;
   }
 
-  .site-title {
-    font-size: 0.82rem;
+  .site-nav {
+    display: none;
+  }
+
+  .hamburger {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+    padding: 4px;
+    background: none;
+    border: none;
+  }
+
+  .hamburger span {
+    display: block;
+    width: 22px;
+    height: 1px;
+    background: var(--color-ink);
+  }
+
+  .nav-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: var(--color-paper);
+    border: 0.5px solid var(--color-rule);
+    padding: 0.75rem 1.25rem;
+    z-index: 100;
+  }
+
+  .nav-dropdown a {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--color-ink-light);
+    text-decoration: none;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    padding: 0.4rem 0;
+  }
+
+  .nav-dropdown a:hover {
+    color: var(--color-ink);
+  }
+
+  .nav-dropdown.open {
+    display: block;
+  }
+
+  .site-header__inner {
+    position: relative;
   }
 
   .post-header__title {
