@@ -7,7 +7,7 @@ title: null
   {% for post in paginator.posts %}
   <li class="post-list__item">
     <p class="post-list__meta">
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d. %B %Y" }}</time>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
     </p>
     <h2 class="post-list__title">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -22,11 +22,11 @@ title: null
 {% if paginator.total_pages > 1 %}
 <nav class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">← Nyere</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">← Newer</a>
   {% endif %}
   <span class="current">{{ paginator.page }} / {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Eldre →</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">Older →</a>
   {% endif %}
 </nav>
 {% endif %}
