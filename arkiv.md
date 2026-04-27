@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Arkiv
-permalink: /arkiv/
+title: Archive
+permalink: /archive/
 ---
 
 {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
