@@ -1,8 +1,8 @@
-title: "Bloggnavnet ditt"
-description: "En kort beskrivelse av bloggen din"
-author: "Ditt navn"
-email: "din@epost.no"
-url: "https://dittbrukernavn.github.io"
+title: "The Typewriter Ethic"
+description: "A blog about whatever pops into my head at any given time."
+author: "The Typewriter Ethic"
+email: "typewriterethic@protonmail.com"
+url: "https://typewriterethic.github.io"
 baseurl: ""
 
 # Build
