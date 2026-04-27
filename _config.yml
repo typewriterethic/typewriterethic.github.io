@@ -30,7 +30,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      og_image: "/assets/og/default.png"
+      og_image: "/assets/og/og-default.png"
 
 # Exclude from build
 exclude:
