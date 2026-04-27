@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Webdesign for the Ages"
-date: 2025-04-27
+date: 2026-04-27
 excerpt: "Since we always start with looks, I'll start with looks."
 og_image: "/assets/og/default.png"
 ---
