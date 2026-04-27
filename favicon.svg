@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#ffffff"/>
+
+  <!-- Paper -->
+  <rect x="21" y="4" width="22" height="19" rx="0.5" fill="#ffffff" stroke="#111111" stroke-width="1.3"/>
+  <rect x="24.5" y="8"  width="14" height="1.3" rx="0.65" fill="#111111" opacity="0.65"/>
+  <rect x="24.5" y="11.5" width="16" height="1.3" rx="0.65" fill="#111111" opacity="0.65"/>
+  <rect x="24.5" y="15" width="9"  height="1.3" rx="0.65" fill="#111111" opacity="0.65"/>
+  <rect x="34.5" y="15" width="1.5" height="1.3" rx="0.3" fill="#111111"/>
+
+  <!-- Platen roller -->
+  <rect x="7" y="21" width="50" height="6" rx="3" fill="#111111"/>
+  <rect x="10" y="22" width="44" height="1.8" rx="0.9" fill="#ffffff" opacity="0.07"/>
+  <circle cx="9"  cy="24" r="2.8" fill="#1a1a1a"/>
+  <circle cx="55" cy="24" r="2.8" fill="#1a1a1a"/>
+
+  <!-- Carriage lever -->
+  <rect x="55" y="17.5" width="8" height="2.2" rx="1.1" fill="#111111"/>
+  <circle cx="63" cy="18.6" r="2" fill="#111111"/>
+
+  <!-- Main body -->
+  <rect x="4" y="27" width="56" height="29" rx="3.5" fill="#111111"/>
+
+  <!-- Keyboard inset -->
+  <rect x="8" y="30" width="48" height="22" rx="2.5" fill="#191919"/>
+
+  <!-- Row 1: 5 keys -->
+  <rect x="9.5"  y="32" width="7.8" height="7.5" rx="1.8" fill="#efefef"/>
+  <rect x="18.8" y="32" width="7.8" height="7.5" rx="1.8" fill="#efefef"/>
+  <rect x="28.1" y="32" width="7.8" height="7.5" rx="1.8" fill="#efefef"/>
+  <rect x="37.4" y="32" width="7.8" height="7.5" rx="1.8" fill="#efefef"/>
+  <rect x="46.7" y="32" width="7.8" height="7.5" rx="1.8" fill="#efefef"/>
+
+  <!-- Row 1 top highlights -->
+  <rect x="9.5"  y="32"   width="7.8" height="1.2" rx="0.6" fill="#ffffff" opacity="0.5"/>
+  <rect x="18.8" y="32"   width="7.8" height="1.2" rx="0.6" fill="#ffffff" opacity="0.5"/>
+  <rect x="28.1" y="32"   width="7.8" height="1.2" rx="0.6" fill="#ffffff" opacity="0.5"/>
+  <rect x="37.4" y="32"   width="7.8" height="1.2" rx="0.6" fill="#ffffff" opacity="0.5"/>
+  <rect x="46.7" y="32"   width="7.8" height="1.2" rx="0.6" fill="#ffffff" opacity="0.5"/>
+
+  <!-- Row 2: 4 keys offset -->
+  <rect x="14.1" y="41" width="7.8" height="7.5" rx="1.8" fill="#efefef"/>
+  <rect x="23.4" y="41" width="7.8" height="7.5" rx="1.8" fill="#efefef"/>
+  <rect x="32.7" y="41" width="7.8" height="7.5" rx="1.8" fill="#efefef"/>
+  <rect x="42.0" y="41" width="7.8" height="7.5" rx="1.8" fill="#efefef"/>
+
+  <!-- Row 2 top highlights -->
+  <rect x="14.1" y="41"   width="7.8" height="1.2" rx="0.6" fill="#ffffff" opacity="0.5"/>
+  <rect x="23.4" y="41"   width="7.8" height="1.2" rx="0.6" fill="#ffffff" opacity="0.5"/>
+  <rect x="32.7" y="41"   width="7.8" height="1.2" rx="0.6" fill="#ffffff" opacity="0.5"/>
+  <rect x="42.0" y="41"   width="7.8" height="1.2" rx="0.6" fill="#ffffff" opacity="0.5"/>
+
+  <!-- Spacebar -->
+  <rect x="15" y="51" width="34" height="4" rx="2" fill="#efefef"/>
+  <rect x="15" y="51" width="34" height="1.3" rx="0.65" fill="#ffffff" opacity="0.45"/>
+
+  <!-- Body feet -->
+  <rect x="7"  y="54" width="9" height="3" rx="1.5" fill="#0d0d0d"/>
+  <rect x="48" y="54" width="9" height="3" rx="1.5" fill="#0d0d0d"/>
+
+  <!-- Guide rail above keys -->
+  <rect x="8" y="29.5" width="48" height="1.8" rx="0.9" fill="#2c2c2c"/>
+</svg>
