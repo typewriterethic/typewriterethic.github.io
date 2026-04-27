@@ -41,6 +41,15 @@
           <a href="{{ '/archive/' | relative_url }}">Archive</a>
           <a href="{{ '/about/' | relative_url }}">About</a>
         </nav>
+        <button class="hamburger" onclick="toggleNav()" aria-label="Menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <div class="nav-dropdown" id="nav-dropdown">
+          <a href="{{ '/archive/' | relative_url }}">Archive</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+        </div>
       </div>
     </header>
 
@@ -57,5 +66,17 @@
 
   </div>
 
+<script>
+function toggleNav() {
+  var d = document.getElementById('nav-dropdown');
+  d.classList.toggle('open');
+}
+document.addEventListener('click', function(e) {
+  var d = document.getElementById('nav-dropdown');
+  if (d && !d.contains(e.target) && !e.target.closest('.hamburger')) {
+    d.classList.remove('open');
+  }
+});
+</script>
 </body>
 </html>
