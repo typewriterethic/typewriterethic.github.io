@@ -527,6 +527,11 @@ body {
    MOBIL
    ============================================ */
 
+.hamburger,
+.nav-dropdown {
+  display: none;
+}
+
 @media (max-width: 600px) {
   html {
     font-size: 18px;
@@ -554,8 +559,7 @@ body {
     padding: 4px;
     background: none;
     border: none;
-    align-self: flex-start;
-    margin-top: 2px;
+    align-self: center;
   }
 
   .hamburger span {
