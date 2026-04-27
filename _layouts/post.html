@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<article>
+
+  <header class="post-header">
+    <p class="post-header__meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d. %B %Y" }}</time>
+      {% if page.reading_time %} · {{ page.reading_time }} min lesing{% endif %}
+    </p>
+    <h1 class="post-header__title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
+{% if page.previous or page.next %}
+<nav class="post-nav">
+  {% if page.next %}
+  <a href="{{ page.next.url | relative_url }}" class="post-nav__link post-nav__link--prev">
+    <span class="post-nav__label">← Forrige</span>
+    <span class="post-nav__title">{{ page.next.title }}</span>
+  </a>
+  {% else %}
+  <div></div>
+  {% endif %}
+
+  {% if page.previous %}
+  <a href="{{ page.previous.url | relative_url }}" class="post-nav__link post-nav__link--next">
+    <span class="post-nav__label">Neste →</span>
+    <span class="post-nav__title">{{ page.previous.title }}</span>
+  </a>
+  {% endif %}
+</nav>
+{% endif %}

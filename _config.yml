@@ -1,0 +1,40 @@
+title: "Bloggnavnet ditt"
+description: "En kort beskrivelse av bloggen din"
+author: "Ditt navn"
+email: "din@epost.no"
+url: "https://dittbrukernavn.github.io"
+baseurl: ""
+
+# Build
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Pagination
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+
+paginate: 10
+paginate_path: "/side/:num/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      og_image: "/assets/og/default.png"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
