@@ -12,7 +12,7 @@ As far as I can remember, I never had a correspondence with a male penpal which 
 
 ## Impicit and Explicit Sexual Energy in Letters
 
-On some of these occasions, the relationship stayed in the realm of E-mail. Those E-mails were full of tension, of hopes and desires not explicitly stated, resulting in what might be described as obsessive intellectual exchanges both fuelled by sexual energy, and also frustrated by it, because it was given no outlet. 
+On some of these occasions, the relationship stayed in the realm of E-mail. Those E-mails were full of tension, of hopes and desires not explicitly stated, resulting in what might be described as obsessive intellectual exchanges fuelled by sexual energy, and also frustrated by it, because it was given no outlet. 
 
 There were other occasions where the intimacy was not left implicit. The thoughts which caused the tension came to the surface, and within weeks (months at most), the situations had developed to a point where the idea of not meeting in person seemed insane and irresponsible. On these occasions, the correspondence always moved from E-mail to instant messaging, VoIP and video conferencing. And, as if it were inevitable, my penpal traveled here or I traveled there, and whatever was on the cards played out. All of these encounters were positive experiences, for both I hope. Some ended after a weekend. Others continued for months, even years.
 
