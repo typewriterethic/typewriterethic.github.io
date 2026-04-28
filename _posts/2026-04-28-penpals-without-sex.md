@@ -8,7 +8,7 @@ og_image: "/assets/og/og-default.png"
 
 In the years between my first and second marriage, I was a serial penpal. There were E-mail exchanges that went on for years, in which I was able to do what I'm doing on __The Typewriter Ethic__. To express my thoughts about things and send them off into the world, although to an audience of one. The person on the receiving end of my E-mails would be one of two types. One was the type of penpal which wrote a reply the same day, no matter how long my most recent E-mail had been. The other was the type of penpal that took weeks to respond, and always startet their E-mail with apologies and finished them with promises to be faster next time. 
 
-As far as I can remember, I never had a correspondence with a male penpal which lasted more than a couple of E-mails. All my penpals were women. The correspondence was mostly what you would expect between pals. Exchanges of likes and dislikes, experiences and interpretations of them, reflections on the other's stories. But on several occasions, for reasons I haven't been able to identify, the exhanges became more personal and more intimate. 
+As far as I can remember, I never had a correspondence with a male penpal which lasted more than a couple of E-mails. All my penpals were women. The correspondence was mostly what you would expect between pals. Exchanges of likes and dislikes, experiences and interpretations of them, reflections on the other's stories. But on several occasions, for reasons I haven't been able to identify, exhanges became more personal and more intimate. 
 
 ## Impicit and Explicit Sexual Energy in Letters
 
