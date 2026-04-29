@@ -1,11 +1,9 @@
 ---
-
 layout: post 
 title: "We the Audience" 
 date: 2026-04-27 
 excerpt: "I always write for an audience. Otherwise, what's the point. On The Typewriter Ethic, however, I'm my own audience." 
 og_image: "/assets/og/og-default.png"
-
 ---
 
 When I write, I always write for an audience. Otherwise, what's the point? On __The Typewriter Ethic__, however, I'm my own audience. I will not market or promote this blog, or share links to it on social media or via email.
