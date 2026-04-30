@@ -9,7 +9,7 @@ The things I am most interested in, I can't discuss with my wife. She will lose 
 
 It doesn't have to be a problem. I have friends who share my interests. I can share my thoughts with my journal, with this blog or with a wider community through my writing. There are strategies I can use if and when I want to express my thoughts and feelings about things that interest me. On occasion, I have told my wife this. And she did not agree.
 
-My wife wants me to **feel** that I can talk with her about everything. To feel it. She has expressed that she is jealous of my journal, because I tell it things that I don't tell her. My response is that she should be happy, because to her these things are boring anyway. But it **makes her feel bad** that I **feel** I can't (or shouldn't) share these things with her.
+My wife wants me to **feel** that I can talk with her about everything. To feel it. She has expressed that she is jealous of my journal, because I tell it things that I don't tell her. My response is that she should be happy, because to her these things are boring and annoyng to her. But it **makes her feel bad** that I **feel** I can't (or shouldn't) share these things with her.
 
 This is another reason for me to feel that writing is a form of infidelity, which I touched on in [a previous post](https://typewriterethic.com/2026/04/28/penpals-without-sex/) and will probably write more about another time.
 
